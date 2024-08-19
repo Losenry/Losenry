@@ -15,7 +15,7 @@
   
 - 💽 My Second Github Account [M0ondayx](https://github.com/M0ondayx)
 
-- 💽 My Third Github Account [M0ondayx](https://github.com/loxery)
+- 💽 My Third Github Account [Loxery](https://github.com/loxery)
 - 
 - ⚡ Fun fact **I think I am crazy !?**
 
