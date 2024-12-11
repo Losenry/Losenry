@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=losenry&label=Profile%20views&color=0e75b6&style=flat" alt="losenry" /> </p>
 
-- 🔭 I’m currently working on [Luxury Hub](https://discord.com/invite/A7x4g8tARm)
+- 🔭 I’m currently working on [Seraphic Hub](https://discord.gg/FHNzmafdkh)
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
