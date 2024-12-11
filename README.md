@@ -15,7 +15,7 @@
 - 📚 Mastering the elements of **Python** and **JavaScript**
 - 💫 Main Skill Tree: **Lua Development**
 - 🎮 Active Projects:
-  - 🌙 **Sephora/Ryujin.lua** (A legendary artifact in the making...)
+  - 🌙 **Serenity.lua** (A legendary artifact in the making...)
   - 🌠 **Requiem.lua** (My first constellation)
 
 ### 📍 Alternative Dimensions
