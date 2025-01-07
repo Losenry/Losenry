@@ -15,7 +15,7 @@
 
 - Skilled in: **JavaScript**, **LuaU**, **Html**, **Python**
 
-- Highly experienced with: **Lua Language**
+- My Favorite Game: **Valorant / Minecraft**
 
 - Languages: Thailand, English
 
