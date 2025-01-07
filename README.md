@@ -1,36 +1,19 @@
-
-<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
-<div>
-<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
-<br/>
-<img src="./img/AboutMe-elaina.png" width="488" />
-<br/>
-<br/>
-<br/>
-
-- Name: **Ray / Raymond / レイモン**
-
-- Residing in: **Thailand**
-
-- Field of Study: **Computer Science**
-
-- Skilled in: **JavaScript**, **LuaU**, **Html**, **Python**
-
-- My Favorite Game: **Valorant / Minecraft**
-
-- Languages: Thailand, English
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
-
-<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
-<br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
-<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
-<br/><br/>
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
-<br/><br/>
-<p align='center'>
-<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://www.facebook.com/profile.php?id=100091464406827"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/loxery.ray"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a>
-</p>
-<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
+<!--- Credit: https://github.com/innng/innng/blob/master/README.md --->
+<div align="center">
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ayaya%2C+a+good+girl+uwu+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 BSC @ UFMG • Back-end dev • Script Developer
+    💻 System programming languages • Lua & Python and JavaScript 
+    📖 Script Developer • Gamers
+    🎮 Music • Games • Anime • Code
+</pre>
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>
+    
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/37158561)
+[![](https://img.shields.io/badge/valorant-ff0a5b)](https://blitz.gg/valorant/profile/raymond-xgod)
+[![](https://img.shields.io/badge/spotify-35d45f)](https://open.spotify.com/user/31oiufvyh7kxzaz65a2uwnpiuaga?si=5ca913a2bbb04e12)
 </div>
