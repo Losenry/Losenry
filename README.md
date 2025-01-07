@@ -18,6 +18,12 @@
   - 🌙 **Serenity.lua** (A legendary artifact in the making...)
   - 🌠 **Requiem.lua** (My first constellation)
 
+### 🎫 Scripts Hub
+- Serenity's Official ( Founder )
+- Luxury Hub ( Developer )
+- Seraphic Hub ( Co-Owner - Developer )
+- Relax Hub ( Co-Owner - Discontinued )
+
 ### 📍 Alternative Dimensions
 - 🌌 Second Account: [M0ondayx](https://github.com/M0ondayx)
 - ⚡ Third Account: [Loxery](https://github.com/loxery)
