@@ -1,82 +1,35 @@
-<body>
-  <center>
-<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<br>
-<div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a href="https://egirl.ing/" >
-   <img src="https://lanyard.kyrie25.me/api/202740603790819328?showBanner=animated&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.8)%20blur(2px)&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
-  </a>
-    <br>
-  <p>𝒯𝒽𝑒𝓇𝑒 𝒾𝓈 𝒶 𝓌𝒽𝑜𝓁𝑒 𝓃𝑒𝓌 𝓌𝑜𝓇𝓁𝒹</p>
-  <p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓃𝑒𝑒𝒹 𝓉𝑜 𝑒𝓍𝓅𝓁𝑜𝓇𝑒</p>
-  <p>𝐼𝓉'𝓈 𝓉𝒽𝑒 𝓈𝑜𝓊𝓃𝒹 𝑜𝒻 𝓉𝒽𝑒 𝓇𝒶𝒾𝓁</p>
-<p>𝒯𝒽𝒶𝓉 𝓎𝑜𝓊 𝓁𝑜𝓋𝑒 𝒶𝓃𝒹 𝒶𝒹𝑜𝓇𝑒</p>
-<p><a href="https://www.youtube.com/watch?v=CFlhlZbeKgE">- 𝒯𝐸𝒦𝒦𝒩𝒪 𝒯𝑅𝒜𝐼𝒩 - 𝐸𝓁𝑒𝒸𝓉𝓇𝒾𝒸 𝒞𝒶𝓁𝓁𝒷𝑜𝓎</a><p>
-  
-</div>
-    <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-      </div>
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
-  </div>
-<li>
- <b>Name:</b> Sarah</li>
-<li>
-<b>Fursona:</b> Snow Fox
-</li>
-<li>
-<b>Loves:</b> anime, osu, rhythm games
-</li>
-<li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
-<b>LastFM:</b> https://scrobble.egirl.ing
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat
-</li>
-<br><br><br>
-</div>
-<div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
- <br>
-<p>
-  <div align="center">
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
-  </div>
-</div>
-<div>
-  <br>
-<p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> <br><br>
-Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design and trying out character animation.
+<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="488" />
+<br/>
+<br/>
+<br/>
+
+- Name: **Ray / Raymond / レイモン**
+
+- Residing in: **Thailand**
+
+- Field of Study: **Computer Science**
+
+- Skilled in: **JavaScript**, **LuaU**, **Html**, **Python**
+
+- Highly experienced with: **Lua Language**
+
+- Languages: Thailand, English
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+
+<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
+<br/>
+<img src="./img/banner-elainaa.png" width="500" /><br/>
+<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
+<br/><br/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<br/><br/>
+<p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://www.facebook.com/profile.php?id=100091464406827"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/loxery.ray"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a>
 </p>
-<br>
-<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-  <div align="center">
-<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
-  </div>
-<br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
 </div>
-<br>
-<div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
-<div align="center">
-<img src="https://i.imgur.com/tzYKRfd.gif">
-</div>
-<hr>
-</div>
-</div>
-    </center>
-</body>
