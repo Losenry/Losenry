@@ -8,7 +8,7 @@
     💻 System programming languages • Lua & Python and JavaScript 
     📖 Script Developer • Gamers
     🎮 Music • Games • Anime • Code
-    🎫 Serenity's Founder • Seraphic's Co-Founder • Luxury's Developer
+    🎫 Serenity's Founder • Seraphic's Co-Founder • Luxury's Developer • Relax's Co-Owner
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
