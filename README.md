@@ -5,7 +5,7 @@
 <br><br>
 <pre>
     💼 BSC @ UFMG • Back-end dev • Script Developer
-    💻 System programming languages • Lua & Python and JavaScript 
+    💻 System programming languages • Lua & Python and Node Js
     📖 Script Developer • Gamers
     🎮 Music • Games • Anime • Code
     🎫 Serenity's Founder • Seraphic's Co-Founder • Luxury's Developer • Relax's Co-Owner
