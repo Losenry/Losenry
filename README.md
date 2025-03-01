@@ -9,6 +9,7 @@
     📖 Script Developer • Gamers
     🎮 Music • Games • Anime • Code
     🎫 Serenity's Founder • Seraphic's Co-Founder • Luxury's Developer • Relax's Co-Owner
+    ℹ️ Credit Profile https://github.com/innng/innng/blob/master/README.md
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
